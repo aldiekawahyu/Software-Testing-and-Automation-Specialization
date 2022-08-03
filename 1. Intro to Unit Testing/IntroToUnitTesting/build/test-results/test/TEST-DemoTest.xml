@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-08-01T16:38:45" hostname="Aldi-Eka-Wahyu" time="0.027">
+  <properties/>
+  <testcase name="test_main_false" classname="DemoTest" time="0.023"/>
+  <testcase name="test_main_true" classname="DemoTest" time="0.002"/>
+  <testcase name="test_isTriangle_1" classname="DemoTest" time="0.0"/>
+  <testcase name="test_isTriangle_2" classname="DemoTest" time="0.0"/>
+  <testcase name="test_isTriangle_3" classname="DemoTest" time="0.0"/>
+  <testcase name="test_isTriangle_4" classname="DemoTest" time="0.0"/>
+  <testcase name="test_isTriangle_5" classname="DemoTest" time="0.001"/>
+  <testcase name="test_isTriangle_6" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
